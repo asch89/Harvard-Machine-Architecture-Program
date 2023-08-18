@@ -1,2 +1,2 @@
-# mini-harvard-machine-architecture
+# Harvard Machine Architecture Program
 This project is a program written in C that replicates the Harvard machine architecture. A text file must be passed as a parameter when running the application. The text file should contain a series of operation codes to instruct the program on the operations to carry out. The program then carries out the instructions through each piece of the architecture: Instruction Register, Program Counter, Memory Address Register (MAR), Data Memory(DM), Memory Data Register (MDR), Instruction Memory (IM), and Accumulator.
